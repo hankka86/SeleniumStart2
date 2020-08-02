@@ -1,8 +1,3 @@
 # Project exclude paths
 /out/
-/src/test/java/przyklad1/
-/src/test/java/przyklad2/
-/src/test/java/przyklad3/
-/src/test/java/sroda1/
-/src/test/java/srodaZad2/
 /target/
