@@ -45,6 +45,6 @@ public class GooggeSteps {
 
     @And("^close browser$")
     public void closeBrowser() {
-       driver.quit();
+       //driver.quit();
     }
 }
